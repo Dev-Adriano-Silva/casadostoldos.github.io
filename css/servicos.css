@@ -1,0 +1,30 @@
+/* aqui irei codar a parte de descrição dos serviços */
+.descricao-valor{
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+  color: var(--cor-2);
+}
+.descricao-valor h3{
+  text-align: center;
+}
+.descricao-valor p{
+  text-align: justify;
+}
+
+/* descricao dos serviços parte 2 */
+
+.descricao-lista li{
+  list-style: none;
+}
+
+.descr-cont{
+  padding-left: 15.1875rem;
+  padding-right: 15.1875rem;
+  gap: 1.25rem;
+}
+
+.imagem-1{
+  padding-bottom: 6.25rem;
+}
+
+

@@ -1,0 +1,14 @@
+.valores{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.valores-texto h3{
+  text-align: center;
+}
+.valores-texto p{
+  text-align: justify;
+}
+
+.mi{
+  text-align: center !important;
+}

@@ -1,0 +1,20 @@
+@import '../css/bootstrap.min.css';
+@import '../css/config.css';
+
+ /* Home */
+@import '../css/home.css';
+
+/* Serviços */
+@import '../css/servicos.css';
+
+/* Empresa */
+@import '../css/empresa.css';
+
+/* Portifolio */
+@import '../css/portifolio.css';
+
+/* Contato */
+@import '../css/contato.css';
+
+/* responsive */
+@import '../css/responsive.css';
